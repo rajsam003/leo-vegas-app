@@ -1,0 +1,5 @@
+export const REDUCER_NAME = "games";
+export const GAMES_LOADING = `${REDUCER_NAME}/GAMES_LOADING`;
+export const GAMES_ERROR = `${REDUCER_NAME}/GAMES_ERROR`;
+export const SET_GAMES = `${REDUCER_NAME}/SET_GAMES`;
+export const SET_FILTERED_GAMES = `${REDUCER_NAME}/SET_FILTERED_GAMES`;
